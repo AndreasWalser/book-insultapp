@@ -8,7 +8,7 @@
 <title>Insult Generator</title>
 </head>
 <body>
-    <p>Version 3.0</p>
+    <p>Version 4.0</p>
 <%
 out.println(new InsultGenerator().generateInsult());
 %>
